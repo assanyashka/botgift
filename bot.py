@@ -26,7 +26,7 @@ import os
 
 CONNECTIONS_FILE = "business_connections.json"
 
-TOKEN = config.BOT_TOKEN
+TOKEN = config.TOKEN
 ADMIN_ID = config.ADMIN_ID
 
 bot = Bot(token=TOKEN)
